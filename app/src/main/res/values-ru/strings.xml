@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Кофейный магазин</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="chocolate_checkbox">Шоколад</string>
+    <string name="minus_button">-</string>
+    <string name="order_button">Заказать</string>
+    <string name="order_summary_header">ЗАКАЗ</string>
+    <string name="order_summary_name">Имя: <xliff:g id="name" exmaple="Amy">%s</xliff:g></string>
+    <string name="plus_button">+</string>
+    <string name="price_text">$10</string>
+    <string name="quantity_header">Количество</string>
+    <string name="quantity_text">2</string>
+    <string name="toppings_header">Добавки</string>
+    <string name="whipped_cream_checkbox">Взбитые сливки</string>
+    <string name="name_hint">Имя:</string>
+    <string name="email_subject">Заказ для кофейни</string>
+    <string name="no_less_coffee">Нельзя заказать менее 1 чашки</string>
+    <string name="no_more_coffee">Нельзя заказать больее 100 чашек</string>
+    <string name="order_summary_chocolate">Добавить шоколад?</string>
+    <string name="order_summary_quantity">Количество:</string>
+    <string name="order_summary_total">Всего:</string>
+    <string name="order_summary_whipped_cream">Добавить взбитые сливки?</string>
+</resources>

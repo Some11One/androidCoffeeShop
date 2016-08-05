@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee Shop</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" exmaple="Amy">%s</xliff:g></string>
+    <string name="toppings_header">Toppings</string>
+    <string name="whipped_cream_checkbox">Whipped cream</string>
+    <string name="chocolate_checkbox">Chocolate</string>
+    <string name="quantity_header">Quantity</string>
+    <string name="minus_button">-</string>
+    <string name="quantity_text">2</string>
+    <string name="plus_button">+</string>
+    <string name="order_summary_header">Order Summary</string>
+    <string name="price_text">$10</string>
+    <string name="order_button">Order</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="name_hint">Name:</string>
+    <string name="email_subject">Order for a coffee shop</string>
+    <string name="no_less_coffee">You cannot have less than 1 coffee</string>
+    <string name="no_more_coffee">You cannot have more than 100 coffees</string>
+    <string name="order_summary_whipped_cream">Add whipped cream?</string>
+    <string name="order_summary_chocolate">Add chocolate?</string>
+    <string name="order_summary_quantity">Quantity:</string>
+    <string name="order_summary_total">Total:</string>
+</resources>
